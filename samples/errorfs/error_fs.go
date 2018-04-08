@@ -22,8 +22,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/TaichiKageyama/fuse/fuseops"
+	"github.com/TaichiKageyama/fuse/fuseutil"
 )
 
 const FooContents = "xxxx"
